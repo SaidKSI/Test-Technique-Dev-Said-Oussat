@@ -47,7 +47,7 @@ const BasicForm = () => {
   return (
     <section className="public">
             <header>
-                <h1>User Login</h1>
+                <h1>Login</h1>
             </header>
     <form onSubmit={handleSubmit} autoComplete="off">
       <label htmlFor="email">Email</label>

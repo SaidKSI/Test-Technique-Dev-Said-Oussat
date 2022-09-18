@@ -33,9 +33,9 @@ function App() {
 
    
   return (
-    <section className="">
+    <section className="title">
     <header>
-        <h1>User Posts</h1>
+        <h1>Posts</h1>
     </header>
     <div className="App">
       
